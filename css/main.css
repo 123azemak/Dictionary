@@ -1,0 +1,14 @@
+.vocab {
+  color: darkblue;
+  font-size: 25px;
+  font-weight: bold;
+}
+.pronunciation {
+  color: gray;
+  font-size: 14px;
+  font-style: italic;
+}
+hr {
+  border-top: 7px dashed tomato;
+  border-bottom: none;
+}
